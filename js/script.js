@@ -97,7 +97,7 @@ projectsInfo.push({
   featureImg: './img/dogapp.png',
   projectshortDescription:
     'Dog App website is an API-based webapp that get informations about breeds of dogs from the base Api.',
-  projectDescription: `This website is an Api-based webapp that get informations about breeds of dogs from the base Api and display only the 10 first breeds alphabetically display them and allow user to comment and like those breeds using involvement Api`,
+  projectDescription: 'This website is an Api-based webapp that get informations about breeds of dogs from the base Api and display only the 10 first breeds alphabetically display them and allow user to comment and like those breeds using involvement Api',
   seeLive: 'https://aminederbal.github.io/capstone-project-2/',
   seeSource: 'https://github.com/QueenterJuma/capstone-project-2',
 });
@@ -109,7 +109,7 @@ projectsInfo.push({
   featureImg: './img/liveworx.png',
   projectshortDescription:
     'Liveworx2023 Conference Capstone is a first capstone project of Microverse',
-  projectDescription: `Welcome to the "Liveworx_Capstone_one" Project! 🎮🕹️ This is a conference web app built with the aim of implementing Microverse"s UI Capstone project and use Flexbox to place elements on the page. Also, adding images and backgrounds to enhance the look of the website.`,
+  projectDescription: 'Welcome to the "Liveworx_Capstone_one" Project! 🎮🕹️ This is a conference web app built with the aim of implementing Microverse"s UI Capstone project and use Flexbox to place elements on the page. Also, adding images and backgrounds to enhance the look of the website.',
   seeLive: 'https://queenterjuma.github.io/Liveworx_Capstone_one.github.io/',
   seeSource: 'https://github.com/QueenterJuma/Capstone_one.github.io',
 });
