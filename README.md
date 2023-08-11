@@ -70,7 +70,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/QueenterJuma/Portfolio_one.github.io.git
+  git clone https://github.com/QueenterJuma/Portfolio-Resume.github.io.git
 ```
 
 
@@ -78,11 +78,11 @@ Clone this repository to your desired folder:
 
 Install this project with:
 ```
-git clone https://github.com/QueenterJuma/Portfolio_one.git
+git clone https://github.com/QueenterJuma/Portfolio-Resume.github.io.git
 ```
 Navigate to the folder
 ```
-repo-name (Portfolio_one)
+repo-name (Portfolio-Resume)
 ```
 Checkout the branch
 ```
@@ -110,13 +110,11 @@ You can deploy this project using: Netlify, and some other hosting service: <a h
 
 - GitHub:(https://github.com/QueenterJuma)
 - Twitter: (https://twitter.com/QueenJumah)
-- LinkedIn:(https://www.linkedin.com/in/queenter-juma-54a0b1222/)
+- LinkedIn:(https://www.linkedin.com/in/queenteranyangojuma/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Portfolio popup window
--Form validation 
--Local storage
+- Add user photo
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
